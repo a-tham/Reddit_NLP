@@ -12,6 +12,8 @@ Whilst it sounds like a rather trivial scenario, many decades on we've still yet
 
 Language, however, is not something static. It's not just a mere tool for simple communication. Language is a dynamic, fluid entity that can be moulded to resemble something, but yet truly mean something else. Things like humour, irony, and sarcasm can be complex and at times, thought-intensive to decipher, let alone create.
 
+Example of extracted data:
+
 id|title|author|score
 -|-|-|-
 chpnge|If the two European heatwaves this year were...|Asian_Canadaball|1
