@@ -23,7 +23,7 @@ chmghz|Why did gravity ignore this bird?|zlicht|0
 
 ## Requirements
 
-* PRAW
+* PRAW (Python Reddit API Wrapper)
 * Sklearn
 * Tensorflow
 * Keras
